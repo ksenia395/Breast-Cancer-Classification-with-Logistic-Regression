@@ -94,6 +94,16 @@ Cross-validation ROC-AUC: ~0.99
 
 Holdout ROC-AUC: close to CV score
 
+## 🔍 Why ROC-AUC instead of Accuracy
+
+Accuracy can be misleading in medical classification problems.
+
+ROC-AUC evaluates how well the model ranks malignant cases above benign ones,
+
+independently of a fixed decision threshold.
+
+This makes ROC-AUC more suitable for problems where the cost of errors is asymmetric.
+
 This indicates:
 
 strong class separability
