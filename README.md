@@ -145,3 +145,7 @@ Comparison with non-linear models (e.g. Gradient Boosting)
 🧠 Key Takeaway
 
 This project demonstrates a clean end-to-end classification workflow, focusing on correctness, interpretability, and evaluation — rather than leaderboard optimization.
+## 📎 Kaggle Notebook
+The full implementation and experiments are available on Kaggle:
+
+ 👉 [View the Kaggle Notebook](https://www.kaggle.com/code/ksenia395/notebookaf618d359a)
