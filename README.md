@@ -112,7 +112,8 @@ no significant overfitting
 ## 📈 ROC Curve
 The ROC curve below shows strong class separability on the validation set.
 
-images/roc-curve.png
+![ROC Curve](images/roc_curve.png)
+
 
 ⚖️ Decision Threshold
 
